@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "163842697824",
+    "project_id": "zipporonson-98c25",
+    "storage_bucket": "zipporonson-98c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163842697824:android:ef61b31ff6b469cd7f7105",
+        "android_client_info": {
+          "package_name": "com.example.zippo_ventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163842697824-e291sf35k5c8okakrht3piovpqkdgrph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zippo_ventas",
+            "certificate_hash": "88a804fe6b63a5931f8cfa300a02341a5d605c70"
+          }
+        },
+        {
+          "client_id": "163842697824-n73prodqabq9blmmf4pgtmjd1vv99a5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHUUy5GPWuwQ-GsCbXSNB0r5Uw9Dn3X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163842697824-n73prodqabq9blmmf4pgtmjd1vv99a5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

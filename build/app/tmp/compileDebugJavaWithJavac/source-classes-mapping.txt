@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/zippo_ventas/BuildConfig.java
+ com.example.zippo_ventas.BuildConfig
+Application.java
+ com.example.zippo_ventas.Application
