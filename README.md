@@ -22,4 +22,4 @@ To build and run this project:
 | |  | 
 | -------- | -------- | 
 | <img src="https://i.ibb.co/ctx1MCt/20210818-214250.gif" height="350" />     | <img src="https://i.ibb.co/TP2H4Ts/20210819-122217.gif" height="350" />     | 
-| <img src="https://i.ibb.co/S0Xgkjd/20210818-220626.gif" height="350" />      |   <img src="https://i.ibb.co/2sRnVD3/20210818-220917.gif" height="350" />   | 
+| <img src="https://i.ibb.co/S0Xgkjd/20210818-220626.gif" height="350" />      |   <img src="https://i.ibb.co/7pJ35Z6/20210818-222151.gif" height="350" />   | 
